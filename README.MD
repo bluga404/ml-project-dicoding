@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <img src="sertifikat.png" alt="Logo" width="554" height="392">
   <h2 align="center">Membangun Proyek Machine Learning - Dicoding</h2>
 
   <p align="center">
